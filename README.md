@@ -1,4 +1,4 @@
-## Hi I’m @catalinalopezby, a Data Scientist and Economist
+## 👋 Hi I’m @catalinalopezb7, a Data Scientist and Economist
 👀 I’m interested in Artificial Intelligence, Economics,  Optimization, Psychology, Fashion and football. 
 🌱 I’m currently learning about LLM and CNN.
 <!--
